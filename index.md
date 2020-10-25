@@ -1,4 +1,4 @@
-## Alycia Marie
+# Alycia Marie
 
 ### Beschreibung
 
@@ -15,3 +15,4 @@ Alycia Marie (*24.12.1991 in North Carolina) ist eine deutsche Beauty- und Lifes
 - sie macht jährlich zu Halloween eine Geisterjagt
 - ihr Idol ist Selena Gomez
 
+> “So you think you're the hero of this story? Guess it feels good to believe your own lies.”
